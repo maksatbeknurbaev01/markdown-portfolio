@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-#Maksatbek
+#Maksatbek01
 #123
 {% include 01-name.md %}
 
